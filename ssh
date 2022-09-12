@@ -1,0 +1,2 @@
+large=/usr/share/chromeos-assets/wallpaper/guest_large.jpg --guest-wallpaper-small=/usr/share/chromeos-assets/wallpaper/guest_small.jpg --child-wallpaper-large=/usr/share/chromeos-assets/wallpaper/child_large.jpg --child-wallpaper-small=/usr/share/chromeos-assets/wallpaper/child_small.jpg --default-wallpaper-large=/usr/share/chromeos-
+./run-execute@all{running}
